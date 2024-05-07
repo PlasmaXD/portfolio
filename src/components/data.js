@@ -3,7 +3,7 @@ export const projectData = [
 		id: 1,
 		title: 'tvapp',
 		description:
-			'Multi-threaded BBS(stack:MongoDB+NEXTjs+flask(backend)',
+		'Streamlit+Selenium+Webdriver Manager',
 		gitHubLink: 'https://github.com/PlasmaXD/tvapp',
 	},
 	{
@@ -11,7 +11,7 @@ export const projectData = [
 		title: 'BBS',
 		description:
 			// 'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
-			'Streamlit+Selenium+Webdriver Manager',
+			'Multi-threaded BBS(stack:MongoDB+NEXTjs+flask(backend)',
 		gitHubLink: 'https://github.com/PlasmaXD/BBS',
 	},
 	// {
