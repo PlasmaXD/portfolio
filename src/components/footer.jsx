@@ -4,33 +4,33 @@ const Footer = () => {
             <hr />
             <div className="footer-container">
                 <p>
-                    &copy; {new Date().getFullYear()} Joel's Portfolio
+                    &copy; {new Date().getFullYear()} Jun's Portfolio
                 </p>
                 <div className="social_icons">
-                    <a
+                    {/* <a
                         href="https://twitter.com/olawanle_joel"
                         aria-label="Twitter"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <i className="fa-brands fa-twitter"></i>
-                    </a>
+                    </a> */}
                     <a
-                        href="https://github.com/olawanlejoel"
+                        href="https://github.com/PlasmaXD"
                         aria-label="GitHub"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <i className="fa-brands fa-github"></i>
                     </a>
-                    <a
+                    {/* <a
                         href="https://www.linkedin.com/in/olawanlejoel/"
                         aria-label="LinkedIn"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <i className="fa-brands fa-linkedin"></i>
-                    </a>
+                    </a> */}
                 </div>
             </div>
         </>
