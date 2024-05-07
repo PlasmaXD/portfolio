@@ -3,14 +3,15 @@ export const projectData = [
 		id: 1,
 		title: 'tvapp',
 		description:
-			'A simple Todo List App built with JavaScript. All datas are stored in localstorage. It helps users check list out their plans and tick as they do them.',
+			'マルチスレッドBBS(stack:MongoDB+NEXTjs+flask（バックエンド）',
 		gitHubLink: 'https://github.com/PlasmaXD/tvapp',
 	},
 	{
 		id: 2,
 		title: 'BBS',
 		description:
-			'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
+			// 'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
+			'Streamlit+Selenium+Webdriver Manager',
 		gitHubLink: 'https://github.com/PlasmaXD/BBS',
 	},
 	// {
