@@ -3,7 +3,7 @@ export const projectData = [
 		id: 1,
 		title: 'tvapp',
 		description:
-			'マルチスレッドBBS(stack:MongoDB+NEXTjs+flask(backend)',
+			'Multi-threaded BBS(stack:MongoDB+NEXTjs+flask(backend)',
 		gitHubLink: 'https://github.com/PlasmaXD/tvapp',
 	},
 	{
