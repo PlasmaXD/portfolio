@@ -22,13 +22,13 @@ export const projectData = [
 			'Real-Time Notifications and Task Scheduling(Express+Notion API+HTML+JavaScript)',
 		gitHubLink: 'https://github.com/PlasmaXD/notion-tasks',
 	},
-	// {
-	// 	id: 3,
-	// 	title: 'Quotes Generator',
-	// 	description:
-	// 		'Helps you generates quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards.',
-	// 	gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
-	// },
+	{
+		id: 3,
+		title: 'RubyChat',
+		description:
+			'RubyChat(Rails+PostgresQL).',
+		gitHubLink: 'https://github.com/PlasmaXD/RubyChat',
+	},
 	// {
 	// 	id: 4,
 	// 	title: 'Password Generator',
