@@ -29,7 +29,7 @@ const Skills = () => {
                 </div>
                 <div className="skill-card ruby">
                     <i className="fa-brands fa-ruby ruby-icon"></i>
-                    <p>Python</p>
+                    <p>Ruby</p>
                 </div>
             </div>
         </div>
