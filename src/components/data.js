@@ -1,10 +1,10 @@
 export const projectData = [
 	{
 		id: 1,
-		title: 'tvapp',
+		title: 'tvapprecommendapp',
 		description:
 		'Streamlit+Selenium+Webdriver Manager',
-		gitHubLink: 'https://github.com/PlasmaXD/tvapp',
+		gitHubLink: 'https://github.com/PlasmaXD/tvrecommendapp',
 	},
 	{
 		id: 2,
@@ -13,6 +13,14 @@ export const projectData = [
 			// 'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
 			'Multi-threaded BBS(stack:MongoDB+NEXTjs+flask(backend)',
 		gitHubLink: 'https://github.com/PlasmaXD/BBS',
+	},
+
+	{
+		id: 3,
+		title: 'Notion Task Manager',
+		description:
+			'Real-Time Notifications and Task Scheduling(Express+Notion API+HTML+JavaScript)',
+		gitHubLink: 'https://github.com/PlasmaXD/notion-tasks',
 	},
 	// {
 	// 	id: 3,
